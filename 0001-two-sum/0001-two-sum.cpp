@@ -16,19 +16,3 @@ public:
         return {};  
     }
 };
-
-// int main() {
-//     vector<int> nums = {1, 2, 3, 4};
-//     int target = 6;
-
-//     Solution s1;
-//     vector<int> result = s1.twoSum(nums, target);
-
-//     if (!result.empty()) {
-//         cout << "Indices: " << result[0] << " and " << result[1] << endl;
-//     } else {
-//         cout << "No two numbers add up to target." << endl;
-//     }
-
-//     return 0;
-// }
