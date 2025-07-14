@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MeetChangrani/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
