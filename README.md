@@ -32,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/MeetChangrani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeetChangrani/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MeetChangrani/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MeetChangrani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MeetChangrani/LeetCode/tree/master/0344-reverse-string) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MeetChangrani/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
