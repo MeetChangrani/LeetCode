@@ -63,6 +63,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetChangrani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/MeetChangrani/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetChangrani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MeetChangrani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MeetChangrani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetChangrani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MeetChangrani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
