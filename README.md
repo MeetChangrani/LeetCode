@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeetChangrani/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MeetChangrani/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/MeetChangrani/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/MeetChangrani/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MeetChangrani/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -85,6 +86,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/MeetChangrani/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0045-jump-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -93,4 +95,5 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MeetChangrani/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
