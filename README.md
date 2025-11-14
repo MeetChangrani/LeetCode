@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/MeetChangrani/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/MeetChangrani/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/MeetChangrani/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MeetChangrani/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/MeetChangrani/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeetChangrani/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/MeetChangrani/LeetCode/tree/master/0047-permutations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
