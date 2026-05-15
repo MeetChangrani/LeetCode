@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/MeetChangrani/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MeetChangrani/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MeetChangrani/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MeetChangrani/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeetChangrani/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MeetChangrani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MeetChangrani/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/MeetChangrani/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MeetChangrani/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -58,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/MeetChangrani/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MeetChangrani/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MeetChangrani/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MeetChangrani/LeetCode/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
